@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.12.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.11.0...website-v0.12.0) (2023-07-12)
+
+
+### Features
+
+* **website:** docs guide prover withdraw TTKO ([#14133](https://github.com/taikoxyz/taiko-mono/issues/14133)) ([1a136d4](https://github.com/taikoxyz/taiko-mono/commit/1a136d48a733d386482102ca0710f0276f0acbf4))
+* **website:** update mxc link ([#14143](https://github.com/taikoxyz/taiko-mono/issues/14143)) ([0bba1e4](https://github.com/taikoxyz/taiko-mono/commit/0bba1e4ba4226849725b3f59baa018f807e3db25))
+* **website:** update website logo to use svg ([#14142](https://github.com/taikoxyz/taiko-mono/issues/14142)) ([1217fb6](https://github.com/taikoxyz/taiko-mono/commit/1217fb6acb8e0324821f7fac829e55eb88228e98))
+
 ## [0.11.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.10.0...website-v0.11.0) (2023-07-10)
 
 
